@@ -34,6 +34,9 @@ Our project develops an environment with objects maze and several real time obje
 
 ![image](https://github.com/siddharth-39/Object-detection-and-Obstacle-avoidance-using-Yolo-V5/assets/135171824/3ced87d6-6799-42e9-9197-81ee4065f53d)
 
+![image](https://github.com/siddharth-39/Object-detection-and-Obstacle-avoidance-using-Yolo-V5/assets/135171824/c2823e9e-994d-49f8-9b1b-8e44bc97d8fa)
+
+
 
 # Demonstration Video
 https://youtu.be/PzXebLfwQ4c
