@@ -4,7 +4,7 @@ Our project develops an environment with objects maze and several real time obje
 --------
 # Pre-requisites
 ---------------
-##Ubuntu 22.04
+Ubuntu 22.04
 ROS2 - Humble
 Python 3
 Yolov5
