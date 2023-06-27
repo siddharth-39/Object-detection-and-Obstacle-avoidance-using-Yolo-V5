@@ -15,6 +15,9 @@ Our project develops an environment with objects maze and several real time obje
 
 -rviz2
 
+# Usage of Commands
+
+
 
 # Simulation Visuals
 -Real time Environment
