@@ -5,7 +5,7 @@ Our project develops an environment with objects maze and several real time obje
 # Pre-requisites
 ---------------
 1.Ubuntu 22.04
-ROS2 - Humble
+2.ROS2 - Humble
 Python 3
 Yolov5
 Gazebo 11.10.2
