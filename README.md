@@ -11,7 +11,7 @@ Yolov5
 Gazebo 11.10.2
 rviz2
 --------------------------
-#Simulation Visuals
+# Simulation Visuals
 .Real time Environment
 ![image](https://github.com/siddharth-39/Object-detection-and-Obstacle-avoidance-using-Yolo-V5/assets/135171824/6219c696-7363-40bf-ae33-4a1749935dea)
 
