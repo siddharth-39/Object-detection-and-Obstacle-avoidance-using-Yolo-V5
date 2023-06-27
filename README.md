@@ -13,10 +13,14 @@ Our project develops an environment with objects maze and several real time obje
 
 -Gazebo 11.10.2
 
--rviz2
+# Commands
+-colcon build
 
-# Usage of Commands
+-source install/setup.bash (in yolobot directory)
 
+-ros launch yolobot_gazebo yolobot_launch.py
+
+-python ros_recognition_yolo.py
 
 
 # Simulation Visuals
@@ -28,6 +32,4 @@ Our project develops an environment with objects maze and several real time obje
 
 # Demonstration Video
 https://youtu.be/PzXebLfwQ4c
-
-
 
