@@ -18,9 +18,9 @@ Our project develops an environment with objects maze and several real time obje
 
 -source install/setup.bash (source the setup file to set the environment variables correctly)
 
--ros launch yolobot_gazebo yolobot_launch.py (launches the Gazebo simulation using the yolobot_launch.py launch file from the yolobot_gazebo package)
+-ros2 launch yolobot_gazebo yolobot_launch.py (launches the Gazebo simulation using the yolobot_launch.py launch file from the yolobot_gazebo package)
 
--python ros_recognition_yolo.py (script performs YOLO-based object recognition within the ROS framework)
+-python3 ros_recognition_yolo.py (script performs YOLO-based object recognition within the ROS framework)
 
 
 # Simulation Visuals
